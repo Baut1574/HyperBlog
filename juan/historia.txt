@@ -6,12 +6,5 @@ Anacona esta progresando en su proyecto
 
 Master 1
 
-<<<<<<< HEAD
-    Experimento 1
-    Experimento 2 
     
-=======
-Master 2
->>>>>>> 41c1d00 (master 2)
-
 Mañana nos enfocaremos en su vida laboral 
